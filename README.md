@@ -1,4 +1,4 @@
-# <p style="text-align: center;"> Власов Никита <br/> QA Engineer
+# <p align=center> Власов Никита <br/> QA Engineer
 
 
 ## <p style="text-align: center;"> Обо мне 
