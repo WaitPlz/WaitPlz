@@ -1,6 +1,4 @@
-# Vlasov-QA
-# Власов Никита
-# QA Engineer
+# Власов Никита <br/> QA Engineer
 
 
 Обо мне
