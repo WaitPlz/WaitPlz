@@ -2,7 +2,6 @@
 [![TG](https://img.shields.io/badge/Telegram-VVhatever1-1B92CE?style=for-the-badge)](https://t.me/VVhatever1)
 [![Mail](https://img.shields.io/badge/Почта-uninikita@mail.ru-0077FF?style=for-the-badge)](mailto:uninikita@mail.ru)
 
-✨ Статус - изучаю Pytest, вспоминаю Python, активно ищу работу.
 ## Проекты
 
 ### ◼️ Тестирование API и интерфейса методом black box на примере YaDisk
